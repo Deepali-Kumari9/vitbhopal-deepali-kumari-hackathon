@@ -3,7 +3,7 @@
 - **Candidate Name:** Deepali Kumari
 - **College Email ID:** deepali.24bce11526@vitbhopal.ac.in
 - **College / Campus:** VIT Bhopal University
-- **Demo Video Link:** [add your unlisted YouTube link here]
+- **Demo Video Link:** https://youtu.be/FoZ7F81pKVw
 - **Slide Deck:** [`docs/presentation.pdf`](docs/presentation.pdf)
 
 ## 1. Project Overview / Problem Statement & Approach
