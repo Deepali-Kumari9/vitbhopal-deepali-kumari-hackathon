@@ -1,10 +1,10 @@
 # RiskPulse AI - S&P Global & Crisil Campus Hackathon
 
-**Candidate Name:** Deepali Kumari
-**College Email ID:** deepali.24bce11526@vitbhopal.ac.in
-**College / Campus:** VIT Bhopal University
-**Demo Video Link:** [add your unlisted YouTube link here]
-**Slide Deck:** [`docs/presentation.pdf`](docs/presentation.pdf)
+- **Candidate Name:** Deepali Kumari
+- **College Email ID:** deepali.24bce11526@vitbhopal.ac.in
+- **College / Campus:** VIT Bhopal University
+- **Demo Video Link:** [add your unlisted YouTube link here]
+- **Slide Deck:** [`docs/presentation.pdf`](docs/presentation.pdf)
 
 ## 1. Project Overview / Problem Statement & Approach
 
