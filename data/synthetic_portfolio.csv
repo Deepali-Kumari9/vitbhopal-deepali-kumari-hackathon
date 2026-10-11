@@ -1,0 +1,9 @@
+asset,asset_type,notional_usd,duration_years,spread_duration,sector
+US Large-Cap Equity Basket,equity,18000000,0,0,Equities
+Technology Equity Basket,equity,12000000,0,0,Technology
+Investment Grade Corporate Bonds,bond,22000000,5.2,4.3,Corporate Credit
+Government Bond Portfolio,bond,16000000,6.8,0.2,Sovereign
+Commercial Real Estate Loans,loan,14000000,2.5,3.8,Real Estate
+Corporate Term Loans,loan,10000000,3.0,3.2,Corporate Credit
+Interest Rate Swap Book,derivative,8000000,4.1,0,Derivatives
+Equity Index Derivatives,derivative,5000000,0,0,Derivatives

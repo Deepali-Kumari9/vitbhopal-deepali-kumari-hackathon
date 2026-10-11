@@ -1,0 +1,64 @@
+text,sentiment_label,event_type
+Northstar Bank misses a coupon payment and bondholders brace for a possible default,Negative,Credit Event
+Ironclad Capital secures a new credit line and calms liquidity worries,Positive,Credit Event
+Rating agency downgrades Skyline Airlines debt to junk status,Negative,Credit Event
+Harvest Insurance reports solid quarterly earnings and raises its dividend,Positive,Earnings/Financial Results
+Voltex Semiconductors misses revenue estimates as chip demand weakens,Negative,Earnings/Financial Results
+Greenfield Foods reports quarterly results in line with guidance,Neutral,Earnings/Financial Results
+Orion Motors posts a sharp drop in quarterly profit,Negative,Earnings/Financial Results
+Atlas Cloud beats revenue forecast and lifts full-year guidance,Positive,Earnings/Financial Results
+Military conflict escalates and new sanctions are imposed on major oil exporters,Negative,Geopolitical
+Tariffs on imported steel are announced amid growing trade tensions,Negative,Geopolitical
+Ceasefire talks begin and tensions ease in the region,Positive,Geopolitical
+Governments sign a new trade agreement ending the tariff dispute,Positive,Geopolitical
+Central bank raises interest rates for a third time as inflation stays high,Negative,Macroeconomic
+Unemployment falls to a record low as GDP growth beats expectations,Positive,Macroeconomic
+The Fed leaves rates unchanged and says it will wait for more data,Neutral,Macroeconomic
+Recession fears grow as manufacturing output declines,Negative,Macroeconomic
+Inflation cools faster than expected and markets rally,Positive,Macroeconomic
+Meridian Energy agrees to acquire a smaller rival in an all-cash deal,Positive,Merger/Acquisition
+Regulators block the merger between two regional banks,Negative,Merger/Acquisition
+Quantum Logistics confirms takeover talks with a private equity firm,Neutral,Merger/Acquisition
+Solara Power completes its acquisition of a wind developer,Positive,Merger/Acquisition
+Cedar Pharma launches a new product after winning regulatory approval,Positive,Product/Business Update
+Bluewave Telecom announces a partnership to expand its 5G network,Positive,Product/Business Update
+Prism Biotech delays the launch of its flagship product,Negative,Product/Business Update
+Atlas Cloud opens a new data centre as part of its expansion plan,Positive,Product/Business Update
+Skyline Airlines schedules new routes for next summer,Neutral,Product/Business Update
+Regulator opens an investigation into Harbor Retail accounting practices,Negative,Legal/Regulatory
+Northstar Bank agrees to pay a fine to settle a regulatory probe,Negative,Legal/Regulatory
+Court dismisses the antitrust lawsuit against Voltex Semiconductors,Positive,Legal/Regulatory
+Regulator clears Ironclad Capital of any wrongdoing after investigation,Positive,Legal/Regulatory
+New disclosure rules for banks take effect next month,Neutral,Legal/Regulatory
+Hackers breach Harvest Insurance and steal customer records,Negative,Cybersecurity
+Bluewave Telecom hit by ransomware attack that disrupts services,Negative,Cybersecurity
+Quantum Logistics says its systems were not affected by the recent cyberattack,Positive,Cybersecurity
+Greenfield Foods restores systems after a short outage,Neutral,Cybersecurity
+Prism Biotech announces a new head of operations,Neutral,General Market News
+Solara Power to hold its annual meeting on Thursday,Neutral,General Market News
+Markets close mixed in quiet trading,Neutral,General Market News
+Harbor Retail shares jump as sales surge during the holiday season,Positive,Earnings/Financial Results
+Skyline Airlines warns that fuel costs could hurt profit,Negative,Earnings/Financial Results
+Orion Motors recalls 200000 vehicles over a safety defect,Negative,Product/Business Update
+Meridian Energy is sued by investors over misleading disclosures,Negative,Legal/Regulatory
+Cedar Pharma shares plunge after trial results disappoint,Negative,Product/Business Update
+Investors worry about Northstar Bank after reports of hidden loan losses,Negative,Credit Event
+Strong demand pushes Atlas Cloud to a record quarter,Positive,Earnings/Financial Results
+Voltex Semiconductors faces a probe over export violations,Negative,Legal/Regulatory
+Ironclad Capital is not expected to default on its bonds,Positive,Credit Event
+Bank liquidity strain deepens as depositors withdraw funds,Negative,Credit Event
+Oil prices surge as war disrupts supply from the region,Negative,Geopolitical
+Solara Power wins a major contract to supply a national grid,Positive,Product/Business Update
+Harvest Insurance announces a share buyback programme,Positive,General Market News
+Greenfield Foods cuts its full-year forecast after weak sales,Negative,Earnings/Financial Results
+Central bank cuts rates to support the slowing economy,Positive,Macroeconomic
+Quantum Logistics names a new chief financial officer,Neutral,General Market News
+Prism Biotech faces a lawsuit over a clinical trial,Negative,Legal/Regulatory
+Bluewave Telecom completes a merger with a cable operator,Positive,Merger/Acquisition
+Skyline Airlines avoids bankruptcy after a rescue financing deal,Positive,Credit Event
+Northstar Bank denies reports of a data breach,Positive,Cybersecurity
+Orion Motors unveils a new electric model at the auto show,Positive,Product/Business Update
+Meridian Energy reports a loss and cuts its dividend,Negative,Earnings/Financial Results
+Analysts upgrade Harbor Retail citing strong recovery in sales,Positive,Earnings/Financial Results
+Voltex Semiconductors shares fall as the war raises supply chain risks,Negative,Geopolitical
+Central bank signals interest rates will stay high for longer,Negative,Macroeconomic

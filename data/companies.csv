@@ -1,0 +1,16 @@
+ticker,company,sector,base_weight
+NSTB,Northstar Bank,Financials,0.066667
+ORMO,Orion Motors,Consumer Discretionary,0.066667
+MRDE,Meridian Energy,Energy,0.066667
+ATCL,Atlas Cloud,Technology,0.066667
+HBRT,Harbor Retail,Consumer Staples,0.066667
+VLTX,Voltex Semiconductors,Technology,0.066667
+CRPH,Cedar Pharma,Health Care,0.066667
+SKLN,Skyline Airlines,Industrials,0.066667
+BLWK,Bluewave Telecom,Communication Services,0.066667
+GRNF,Greenfield Foods,Consumer Staples,0.066667
+IRCP,Ironclad Capital,Financials,0.066667
+SLRA,Solara Power,Utilities,0.066667
+QNTM,Quantum Logistics,Industrials,0.066667
+PRBE,Prism Biotech,Health Care,0.066667
+HVST,Harvest Insurance,Financials,0.066667
