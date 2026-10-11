@@ -1,0 +1,131 @@
+{
+  "n_examples": 63,
+  "sentiment": {
+    "accuracy": 0.603,
+    "macro_f1": 0.597,
+    "majority_baseline_accuracy": 0.429,
+    "confusion": {
+      "Negative": {
+        "Negative": 16,
+        "Neutral": 1,
+        "Positive": 5
+      },
+      "Neutral": {
+        "Negative": 10,
+        "Neutral": 9,
+        "Positive": 8
+      },
+      "Positive": {
+        "Negative": 1,
+        "Neutral": 0,
+        "Positive": 13
+      }
+    }
+  },
+  "event_type": {
+    "accuracy": 0.841,
+    "macro_f1": 0.863,
+    "majority_baseline_accuracy": 0.175,
+    "confusion": {
+      "Credit Event": {
+        "Credit Event": 7,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 0
+      },
+      "Cybersecurity": {
+        "Credit Event": 0,
+        "Cybersecurity": 4,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 0
+      },
+      "Earnings/Financial Results": {
+        "Credit Event": 0,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 9,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 0
+      },
+      "General Market News": {
+        "Credit Event": 0,
+        "Cybersecurity": 1,
+        "Earnings/Financial Results": 2,
+        "General Market News": 5,
+        "Geopolitical": 1,
+        "Legal/Regulatory": 2,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 4
+      },
+      "Geopolitical": {
+        "Credit Event": 0,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 5,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 0
+      },
+      "Legal/Regulatory": {
+        "Credit Event": 0,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 6,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 0
+      },
+      "Macroeconomic": {
+        "Credit Event": 0,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 7,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 0
+      },
+      "Merger/Acquisition": {
+        "Credit Event": 0,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 5,
+        "Product/Business Update": 0
+      },
+      "Product/Business Update": {
+        "Credit Event": 0,
+        "Cybersecurity": 0,
+        "Earnings/Financial Results": 0,
+        "General Market News": 0,
+        "Geopolitical": 0,
+        "Legal/Regulatory": 0,
+        "Macroeconomic": 0,
+        "Merger/Acquisition": 0,
+        "Product/Business Update": 5
+      }
+    }
+  }
+}
